@@ -35,7 +35,6 @@
 
 # Author: Thiago Lages (github.com/thiagolages)
 
-from numpy import inf
 import serial, json, logging, time
 from logging.handlers import RotatingFileHandler
 
